@@ -4,6 +4,7 @@
 
 * ธนาคาร
 
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ROyx3i8m44Hxds9BKd015oZyIYeAcZGhUmaMyMvYhuLoUsn41-NCazve-goOjCJ967j0Vi8vpfEiH1QsEzXS6-r-KMEVRk-S5DOEB5oGSIJmg0XOQqa-y0W3gu0hMILIgYdHKW95Oirry_W5pVbFUg9PSj21Rq4VFk6hwX9olbTN5ARLc9xOrmDl)
 
 ### Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
