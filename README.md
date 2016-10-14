@@ -2,9 +2,17 @@
 
 ## ส่งการบ้าน เรื่อง Use Case Diagram 5 ภาพ
 
-* ธนาคาร
+* ภาพที่ 1 บัญชีธนาคาร
 
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ROyx3i8m44Hxds9BKd015oZyIYeAcZGhUmaMyMvYhuLoUsn41-NCazve-goOjCJ967j0Vi8vpfEiH1QsEzXS6-r-KMEVRk-S5DOEB5oGSIJmg0XOQqa-y0W3gu0hMILIgYdHKW95Oirry_W5pVbFUg9PSj21Rq4VFk6hwX9olbTN5ARLc9xOrmDl)
+
+* ภาพที่ 2 การใช้ตู้ ATM
+
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/JSux3eCm40JGtgVOCYwu08eG-RJfGAaNlCHM5Xkj5w7Sdaz3oj4RZQREYgBpo4Q3CW6qcGIkNNLhNgOyKWa5qw151PSdJIa7jN2IX8y_x1tKEy45-P_dQRT6CEPX6nvJf9yzsQKbxeM7f_uBTsICFLbJKtJRfnK0)
+
+* ภาพที่ 3 การใช้บริการโรงเเรม
+
+[![IMAGE ALT TEXT]
 
 ### Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
