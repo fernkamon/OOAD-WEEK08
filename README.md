@@ -12,7 +12,15 @@
 
 * ภาพที่ 3 การใช้บริการโรงเเรม
 
-[![IMAGE ALT TEXT]
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/RP3B3e8m44Nt_Ogxr0L-Wc7ftY-Ob16QliWmB8ZntuL6G8FBdZEzywW79T4n1XFueT0CSMsdQ9omLPUJ6RnBFGb5z6GzjNpNAJ2mU4DMiy2EW-R8iZu3YpUBfzJEfRUi7F0qs0fHLJZPZgtFevx_2fSEV1vrEi2UfiYfXEo9k5n_JVbQw7VNhLCnQ_nEgyygsCCszZ8rfsO-t1i0)
+
+* ภาพที่ 4 การตรวจสอบสิทธิ์การใช้บัตรเครดิต
+
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/hPBDJWCn38JlUGeVwQ4liAVIbP0u8A5knTrAtCLgObUEzr0XtfqiY1zH5d7WcfblD1vbKntDfvB3dZqJz4Q97Ngq10-OEQ6p2WpdwbH2feE3AnYFZmw9ZU8iXtfaEQ5XWHF68uuq-Bc5pNB0w6eGf-fQo4At8qVES2lLsQSPxq8tg4fLOndXXWKbCdwpp5aeOqk5fm0VUR1UmzKzsK6jlBNU6qh5rrwh2wDff5gXVt_SSiuNhZkKTiAdwJf6dSHdtwBMm3yS0KiL_W7_QTS6x2Xgv3RRbrtgRy3Yc4lCSzYGfFQ5NW00)
+
+* ภาพที่ 5 การลงทะเบียนเรียน
+
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/bPB1JiCm44Jl_eezfeVs0r0LLOhWZ4ZL-s9larKTEx8tfH7Ytx49HKKj18xsp9iTsRk9Wa66pgejYoMe0XaMg30OsA5bWyBUGJr6eKvPsWk8Xy1DAs0uaCwoYWTsFGRie4Tzm8Pg6LDObXLgyG5maDO75gRuULFBOCY9oYPqJRB3gu9B8ooNK3nHmr72L6EVE4Sl42SsBcu0rH12qixvS1cG_JE9AQCi7d7iClj051Tti5uFaM9PPlhN-3du3wFfoEca2RItTdhUVpUOp_ZM4LQhid0UhehJISYP7v7xawPUhfstndy0svRWI-G8pWlW4TdYiwMvYUblpolpfZR9bPRs7G00)
 
 ### Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
