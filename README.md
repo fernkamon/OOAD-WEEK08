@@ -2,7 +2,13 @@
 
 ## ส่งการบ้าน เรื่อง Use Case Diagram 5 ภาพ
 
+เบสิค use case
+
+![](http://www.plantuml.com/plantuml/img/VOun3eD030HxNh5bAFZ05H4qwQWW7OqJB679Pz3PAVBx719roXtjhBRte1AVh4tpu6BexhXD9sglV8AdCs9Zq76el2bajnO90poJAfHUNFqqaXY6DOkbwlqHvqqSuejzEK2srqfPx9hfsTRwvmS0)
+
+
 * ภาพที่ 1 บัญชีธนาคาร
+
 
 [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ROyx3i8m44Hxds9BKd015oZyIYeAcZGhUmaMyMvYhuLoUsn41-NCazve-goOjCJ967j0Vi8vpfEiH1QsEzXS6-r-KMEVRk-S5DOEB5oGSIJmg0XOQqa-y0W3gu0hMILIgYdHKW95Oirry_W5pVbFUg9PSj21Rq4VFk6hwX9olbTN5ARLc9xOrmDl)
 
